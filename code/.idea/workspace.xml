@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="038d65e9-0569-4c49-843c-61aa1f20ec98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/RL_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/codeself/dqn_doom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/codeself/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/codeself/q_learing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/2D_car/DDPG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/2D_car/car_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/2D_car/collision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Robot_arm/A3C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Robot_arm/DDPG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Robot_arm/DPPO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Robot_arm/arm_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Solve_BipedalWalker/A3C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Solve_BipedalWalker/A3C_rnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Solve_BipedalWalker/DDPG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Solve_BipedalWalker/log/events.out.tfevents.1490801027.Morvan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Solve_LunarLander/A3C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Solve_LunarLander/DuelingDQNPrioritizedReplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/experiments/Solve_LunarLander/run_LunarLander.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/maze_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/qlearning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rl_linux/run_this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain_space/hermes/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain_space/hermes/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain_space/hermes/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain_space/hermes/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain_space/hermes/bin/python3.8" beforeDir="false" afterPath="$PROJECT_DIR$/../../blockchain_space/hermes/bin/python3.8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain_space/lesson1/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain_space/lesson1/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain_space/lesson1/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blockchain_space/lesson1/blockchain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cards_manager/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cards_manager/.idea/cards_manager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cards_manager/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cards_manager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cards_manager/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cards_manager/cards_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cards_manager/cards_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../rl_linux/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../rl_linux/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../rl_linux/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../rl_linux/intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rl/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sem_fix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springer_fix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/multi_port_scan/venv_arch/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/multi_port_scan/venv_arch/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/multi_port_scan/venv_arch/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/multi_port_scan/venv_arch/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/multi_port_scan/venv_arch/lib64" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/multi_port_scan/venv_arch/lib64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/venv_manjaro/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/venv_manjaro/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/venv_manjaro/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/venv_manjaro/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/venv_manjaro/bin/python3.8" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/venv_manjaro/bin/python3.8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../workspace/venv_manjaro/lib64" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/venv_manjaro/lib64" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1pnCJ0oSS4DCYfSpOSHR8soa4d5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Python.DQN">
+    <configuration name="DQN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DQN.py" />
+      <option name="PARAMETERS" value="--train True" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backup_DQN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backup/backup_DQN.py" />
+      <option name="PARAMETERS" value="--train True" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.DQN" />
+      <item itemvalue="Python.backup_DQN" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DQN" />
+        <item itemvalue="Python.backup_DQN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="038d65e9-0569-4c49-843c-61aa1f20ec98" name="Default Changelist" comment="" />
+      <created>1615809394134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615809394134</updated>
+      <workItem from="1615809395785" duration="20124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DQN.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DQN.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="TypeError">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </breakpoint>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="IndexError">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="by-file" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.state" language="Python" />
+        <watch expression="self.terminate_state" language="Python" />
+        <watch expression="self.ENERGY" language="Python" />
+        <watch expression="np.random.uniform() " language="Python" />
+        <watch expression="np.all(action == 0)" language="Python" />
+        <watch expression="rewards + (1 - done) * args.gamma * next_q_value" language="Python" />
+        <watch expression="target[range(args.batch_size), actions]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$backup_DQN.coverage" NAME="backup_DQN Coverage Results" MODIFIED="1615880464719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backup" />
+    <SUITE FILE_PATH="coverage/code$DQN.coverage" NAME="DQN Coverage Results" MODIFIED="1615881467353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
