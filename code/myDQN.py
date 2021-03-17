@@ -111,12 +111,12 @@ class Agent:
 
     def test_episode(self, test_episodes):
         for episode in range(test_episodes):
-            state = self.env.reset().astype(np.float32)
+            state = self.env.resetEnv().astype(np.float32)
             total_reward, done = 0, False
             while not done:
                 action = self.model(np.array([state], dtype=np.float32))[0]
                 action = np.argmax(action)
-                next_state, reward, done, _ = self.env.step(action)
+                next_state, reward, done = self.env.step(action)
                 next_state = next_state.astype(np.float32)
 
                 total_reward += reward
@@ -128,7 +128,7 @@ class Agent:
         if args.train:
             for episode in range(train_episodes):
                 total_reward, done = 0, False
-                state = self.env.reset().astype(np.float32)
+                state = self.env.resetEnv().astype(np.float32)
                 while not done:
                     action = self.choose_action(state)
                     next_state, reward, done = self.env.step(action)
